@@ -1,0 +1,11 @@
+[
+  {
+    "file": "/Users/marc/Documents/Code/dataset/main/C_L_D30/c101_L_D30_s0.json",
+    "solver": "gnn",
+    "obj1": 56000000436.20891,
+    "obj2": 0.2502796309775712,
+    "unassigned": 56,
+    "accepted_dynamic": 0,
+    "rejected_dynamic": 0
+  }
+]
