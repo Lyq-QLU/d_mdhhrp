@@ -1,0 +1,18 @@
+[
+  {
+    "file": "/Users/marc/Documents/Code/dataset/main/C_L_D30/c101_L_D30_s0.json",
+    "obj1": 56001024092.64877,
+    "obj2": 31.25,
+    "unassigned": 80,
+    "accepted_dynamic": 0,
+    "rejected_dynamic": 24
+  },
+  {
+    "file": "/Users/marc/Documents/Code/dataset/main/C_L_D30/c101_L_D30_s1.json",
+    "obj1": 56000024000.0,
+    "obj2": 0.0,
+    "unassigned": 80,
+    "accepted_dynamic": 0,
+    "rejected_dynamic": 24
+  }
+]
